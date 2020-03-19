@@ -3,7 +3,8 @@ package com.OARA.x00128519;
 import java.util.Scanner;
 
 public class Main {
-    static Scanner in;
+    static Scanner in= new Scanner(System.in);
+
 
     public Main() {
     }
@@ -16,12 +17,12 @@ public class Main {
         FraseAux = FraseAux.replace(",", "");
         FraseAux = FraseAux.replace(" ", "");
         FraseAux = FraseAux.trim();
-        for(int x = Frase.length() - 1; x >= 0; --x) {
-            if (Frase.charAt(x) != ' ' && Frase.charAt(x) != ',' && Frase.charAt(x) != '.' ) {
-                CadenaInvertida = CadenaInvertida + Frase.charAt(x);
-            }
-        }
 
+        for(int x = FraseAux.length() - 1; x >= 0; --x) {
+            if (Frase.charAt(x) != ' ' && Frase.charAt(x) != ',' && Frase.charAt(x) != '.' ) {
+                CadenaInvertida +=  Frase.charAt(x);
+           }
+        }
         Cadenas(FraseAux, CadenaInvertida);
     }
 
@@ -30,10 +31,11 @@ public class Main {
             System.out.println(FraseAux.equalsIgnoreCase(CadenaInvertida));
             System.out.println("La frase es palindrome ");
         }
+        else
+            System.out.println("La frase no es palindrome");
+
 
     }
 
-    static {
-        in = new Scanner(System.in);
-    }
+
 }
