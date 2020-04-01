@@ -102,7 +102,7 @@ public class Main {
                         }
 
                     } else if (opcion3 == 2) {
-                        String finalTipo2 = (JOptionPane.showInputDialog(null, "Ingrese el ID para buscar"));
+                        String finalTipo2 = (JOptionPane.showInputDialog(null, "Ingrese el tipo de item a buscar"));
                         if (finalTipo2.equalsIgnoreCase("Potion")) {
                             CommonItems.forEach(s -> {
                                 if (s instanceof Potion)
