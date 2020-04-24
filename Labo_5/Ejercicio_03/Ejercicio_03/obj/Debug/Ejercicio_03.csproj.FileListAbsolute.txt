@@ -1,0 +1,5 @@
+C:\Users\Oscar\RiderProjects\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\Oscar\RiderProjects\Ejercicio_03\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\Oscar\RiderProjects\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+C:\Users\Oscar\RiderProjects\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\Oscar\RiderProjects\Ejercicio_03\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
