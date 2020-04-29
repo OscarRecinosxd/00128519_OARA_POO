@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Laboratorio_06
 {
-    public class CalcularNota
+    public static class CalcularNota
     {
 
         

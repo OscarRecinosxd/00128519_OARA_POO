@@ -24,9 +24,9 @@
         <option value="$PROJECT_DIR$/Laboratorio_06/Tarea.cs" />
         <option value="$PROJECT_DIR$/Laboratorio_06/Parcial.cs" />
         <option value="$PROJECT_DIR$/Laboratorio_06/Laboratorio.cs" />
-        <option value="$PROJECT_DIR$/Laboratorio_06/CalcularNota.cs" />
         <option value="$PROJECT_DIR$/Laboratorio_06/Excepcions.cs" />
         <option value="$PROJECT_DIR$/Laboratorio_06/Program.cs" />
+        <option value="$PROJECT_DIR$/Laboratorio_06/CalcularNota.cs" />
       </list>
     </option>
   </component>
@@ -78,6 +78,9 @@
       <workItem from="1588050412775" duration="6000" />
       <workItem from="1588100091856" duration="3889000" />
       <workItem from="1588107860862" duration="354000" />
+      <workItem from="1588108239371" duration="16000" />
+      <workItem from="1588108477018" duration="72000" />
+      <workItem from="1588134878572" duration="111000" />
     </task>
     <servers />
   </component>
@@ -87,22 +90,22 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1588108214991">
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom" timestamp="1588134989551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588108214991" />
-    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1588108214991">
+    <state width="1877" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588134989551" />
+    <state width="1877" height="292" key="GridCell.Tab.0.center" timestamp="1588134989551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588108214991" />
-    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1588108214991">
+    <state width="1877" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588134989551" />
+    <state width="1877" height="292" key="GridCell.Tab.0.left" timestamp="1588134989551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588108214991" />
-    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1588108214991">
+    <state width="1877" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588134989551" />
+    <state width="1877" height="292" key="GridCell.Tab.0.right" timestamp="1588134989551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588108214991" />
+    <state width="1877" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588134989551" />
     <state x="529" y="200" width="470" height="587" key="RiderGenerateDialog" timestamp="1588045844179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
