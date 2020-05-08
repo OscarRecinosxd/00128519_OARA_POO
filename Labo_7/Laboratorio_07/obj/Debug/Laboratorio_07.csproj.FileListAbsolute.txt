@@ -1,0 +1,9 @@
+C:\Users\Oscar\RiderProjects\Laboratorio_07\bin\Debug\Laboratorio_07.exe.config
+C:\Users\Oscar\RiderProjects\Laboratorio_07\bin\Debug\Laboratorio_07.exe
+C:\Users\Oscar\RiderProjects\Laboratorio_07\bin\Debug\Laboratorio_07.pdb
+C:\Users\Oscar\RiderProjects\Laboratorio_07\obj\Debug\Laboratorio_07.csprojAssemblyReference.cache
+C:\Users\Oscar\RiderProjects\Laboratorio_07\obj\Debug\Laboratorio_07.Properties.Resources.resources
+C:\Users\Oscar\RiderProjects\Laboratorio_07\obj\Debug\Laboratorio_07.csproj.GenerateResource.cache
+C:\Users\Oscar\RiderProjects\Laboratorio_07\obj\Debug\Laboratorio_07.exe
+C:\Users\Oscar\RiderProjects\Laboratorio_07\obj\Debug\Laboratorio_07.pdb
+C:\Users\Oscar\RiderProjects\Laboratorio_07\obj\Debug\Laboratorio_07.Form1.resources
