@@ -29,8 +29,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources =
-                new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -103,6 +101,7 @@
             // 
             // login1
             // 
+            this.login1.AutoSize = true;
             this.login1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.login1.BackColor = System.Drawing.Color.Transparent;
             this.login1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -116,14 +115,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.BackColor = System.Drawing.Color.LightCoral;
-            this.BackgroundImage = ((System.Drawing.Image) (resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(824, 533);
             this.Controls.Add(this.tableLayoutPanel1);
-            this.MinimumSize = new System.Drawing.Size(621, 279);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Sistema";
             this.tableLayoutPanel1.ResumeLayout(false);
+            this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
         }
 

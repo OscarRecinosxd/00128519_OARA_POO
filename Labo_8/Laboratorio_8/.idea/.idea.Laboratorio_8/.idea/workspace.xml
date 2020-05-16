@@ -17,11 +17,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Login.Designer.cs" />
-        <option value="$PROJECT_DIR$/Login.cs" />
-        <option value="$PROJECT_DIR$/Form1.cs" />
         <option value="$PROJECT_DIR$/Register.cs" />
         <option value="$PROJECT_DIR$/Register.Designer.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/Login.cs" />
+        <option value="$PROJECT_DIR$/Login.Designer.cs" />
       </list>
     </option>
   </component>
@@ -70,6 +70,8 @@
       <workItem from="1589250874640" duration="499000" />
       <workItem from="1589251376380" duration="2138000" />
       <workItem from="1589253572483" duration="48000" />
+      <workItem from="1589316095760" duration="131000" />
+      <workItem from="1589316451717" duration="2864000" />
     </task>
     <servers />
   </component>
@@ -79,21 +81,21 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1877" height="125" key="GridCell.Tab.0.bottom" timestamp="1589253505348">
+    <state width="1877" height="125" key="GridCell.Tab.0.bottom" timestamp="1589319323730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589253505348" />
-    <state width="1877" height="125" key="GridCell.Tab.0.center" timestamp="1589253505348">
+    <state width="1877" height="125" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589319323730" />
+    <state width="1877" height="125" key="GridCell.Tab.0.center" timestamp="1589319323729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="125" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589253505348" />
-    <state width="1877" height="125" key="GridCell.Tab.0.left" timestamp="1589253505347">
+    <state width="1877" height="125" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589319323729" />
+    <state width="1877" height="125" key="GridCell.Tab.0.left" timestamp="1589319323729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="125" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589253505347" />
-    <state width="1877" height="125" key="GridCell.Tab.0.right" timestamp="1589253505348">
+    <state width="1877" height="125" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589319323729" />
+    <state width="1877" height="125" key="GridCell.Tab.0.right" timestamp="1589319323729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="125" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589253505348" />
+    <state width="1877" height="125" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589319323729" />
   </component>
 </project>

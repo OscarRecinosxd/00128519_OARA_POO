@@ -7,6 +7,8 @@ namespace Laboratorio_8
         public Login()
         {
             InitializeComponent();
+           
+            
         }
     }
 }

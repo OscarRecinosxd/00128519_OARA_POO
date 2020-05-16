@@ -19,6 +19,7 @@ namespace Laboratorio_8
             InitializeComponent();
             current = login1;
             DoubleBuffered = true;
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
