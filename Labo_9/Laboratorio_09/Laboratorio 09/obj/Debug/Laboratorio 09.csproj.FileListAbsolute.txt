@@ -1,0 +1,70 @@
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\Laboratorio_09.exe.config
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\Laboratorio_09.pdb
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio 09.csprojAssemblyReference.cache
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.Properties.Resources.resources
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio 09.csproj.GenerateResource.cache
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.exe
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.pdb
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.AddSignature.resources
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.Form1.resources
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.Inscription.resources
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.RegisterStudent.resources
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.ViewData.resources
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.exe.config
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\Npgsql.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Buffers.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Memory.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Text.Json.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.ValueTuple.dll
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\Npgsql.pdb
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\Npgsql.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Buffers.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Memory.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Text.Json.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\bin\Debug\System.ValueTuple.xml
+C:\Users\Johan Tino\RiderProjects\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio 09.csproj.CopyComplete
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\Laboratorio_09.exe.config
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\Laboratorio_09.pdb
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\Npgsql.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Buffers.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Memory.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Text.Json.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.ValueTuple.dll
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\Npgsql.pdb
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\Npgsql.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Buffers.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Memory.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Text.Json.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\bin\Debug\System.ValueTuple.xml
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio 09.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.exe.config
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.AddSignature.resources
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.Form1.resources
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.Inscription.resources
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.Properties.Resources.resources
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.RegisterStudent.resources
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.ViewData.resources
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio 09.csproj.GenerateResource.cache
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio 09.csproj.CopyComplete
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.exe
+C:\Users\Oscar\Desktop\Laboratorio 09\Laboratorio 09\obj\Debug\Laboratorio_09.pdb
