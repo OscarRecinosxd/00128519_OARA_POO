@@ -1,0 +1,13 @@
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\bin\Debug\netcoreapp3.0\Laboratorio10.exe
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\bin\Debug\netcoreapp3.0\Laboratorio10.deps.json
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\bin\Debug\netcoreapp3.0\Laboratorio10.runtimeconfig.json
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\bin\Debug\netcoreapp3.0\Laboratorio10.runtimeconfig.dev.json
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\bin\Debug\netcoreapp3.0\Laboratorio10.dll
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\bin\Debug\netcoreapp3.0\Laboratorio10.pdb
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\obj\Debug\netcoreapp3.0\Laboratorio10.csprojAssemblyReference.cache
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\obj\Debug\netcoreapp3.0\Laboratorio10.AssemblyInfoInputs.cache
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\obj\Debug\netcoreapp3.0\Laboratorio10.AssemblyInfo.cs
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\obj\Debug\netcoreapp3.0\Laboratorio10.csproj.CoreCompileInputs.cache
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\obj\Debug\netcoreapp3.0\Laboratorio10.dll
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\obj\Debug\netcoreapp3.0\Laboratorio10.pdb
+C:\Users\Recinos\Desktop\Github\Labo_10\Laboratorio10\Laboratorio10\obj\Debug\netcoreapp3.0\Laboratorio10.genruntimeconfig.cache
